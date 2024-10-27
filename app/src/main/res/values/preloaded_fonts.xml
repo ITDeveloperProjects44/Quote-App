@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/abel</item>
+        <item>@font/actor</item>
+        <item>@font/agdasima</item>
+        <item>@font/akaya_telivigala</item>
+        <item>@font/amita</item>
+        <item>@font/arya_bold</item>
+        <item>@font/cormorant_upright</item>
+        <item>@font/cousine</item>
+        <item>@font/hind_guntur_medium</item>
+        <item>@font/lato_light</item>
+        <item>@font/poppins_light</item>
+        <item>@font/poppins_medium</item>
+    </array>
+</resources>

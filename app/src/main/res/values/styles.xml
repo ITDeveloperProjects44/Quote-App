@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!-- Existing styles -->
+<style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+    <!-- Customize your theme here -->
+</style>
+
+<!-- Custom Style for Menu Text -->
+<style name="MenuTextAppearance" parent="TextAppearance.AppCompat">
+    <item name="android:textSize">40sp</item>
+    <item name="android:fontFamily">@font/actor</item>
+    <item name="android:textColor">#FFffff</item> <!-- Optional: Set text color -->
+</style>
+</resources>
